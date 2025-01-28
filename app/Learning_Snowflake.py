@@ -176,7 +176,7 @@ with st.sidebar:
     st.button("Update points") 
     st.write('')
     st.write('')
-    st.markdown("<p style='color: #000000'> Author:  Angela Harney, Snowflake Data Superhero</p>*")       
+    st.markdown("<p style='color: #000000, font-size: 14px;'> Author:  Angela Harney, Snowflake Data Superhero</p>")       
 
 
 #--------------------------------------------------------------------
