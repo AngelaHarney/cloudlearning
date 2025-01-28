@@ -17,7 +17,7 @@ if 'total_points' not in st.session_state:
     st.session_state.con_adv_streamlitgame_1 = 0
 
 
-st.title(":blue[Learning Snowflake]")
+st.title(":blue[Snowflake Games]")
 
 CON_POINTS0 = 0
 CON_POINTS1 = 1
