@@ -176,8 +176,10 @@ with st.sidebar:
     st.button("Update points")
     st.write('')
     st.write('')
-    st.markdown("""*:blue[Author:  Angela Harney
-Snowflake Data Superhero]*""")       
+    st.markdown("""*
+Author:  Angela Harney
+Snowflake Data Superhero
+    *""")       
 
 
 #--------------------------------------------------------------------
