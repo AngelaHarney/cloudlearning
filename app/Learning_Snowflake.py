@@ -173,10 +173,10 @@ with st.sidebar:
     st.markdown("* Execute SQL Worksheet scripts and create Streamlit apps as the SYSADMIN role")
     st.write('')
     show_points = st.text_input(":orange[Total Game Points]", value=st.session_state.total_points, key='txt_total_points')
-    st.button("Update points")
+    st.button("Update points") 
     st.write('')
     st.write('')
-    st.markdown("""Author:  Angela Harney\
+    st.markdown("""Author:  Angela Harney \n
 Snowflake Data Superhero
     """)       
 
