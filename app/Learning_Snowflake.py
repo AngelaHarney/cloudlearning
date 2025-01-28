@@ -174,6 +174,10 @@ with st.sidebar:
     st.write('')
     show_points = st.text_input(":orange[Total Game Points]", value=st.session_state.total_points, key='txt_total_points')
     st.button("Update points")
+    st.write('')
+    st.write('')
+    st.markdown("*:blue[Auther:  Angela Harney, Snowflake Data Superhero]*")    
+
 
 #--------------------------------------------------------------------
 # con_sql_lvl1_getstarted #
